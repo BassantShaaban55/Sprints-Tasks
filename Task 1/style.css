@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(217, 233, 247);
+}
+
+img {
+    border: 1px solid black;
+    width: 480PX;
+    height: 450px;
+    margin: 30px 400px;
+
+
+}
+
+
+
+h1 {
+    padding-left: 45px;
+    font-size: 38px;
+    color: rgb(7, 1, 80);
+}
+
+h2 {
+
+    padding: 0 30px;
+    font-size: 30px;
+}
+
+.details {
+    padding: 0 95px;
+    font-size: 24px;
+}
+
+.MC {
+    padding: 0 95px;
+    font-size: 24px;
+}
+
+table {
+    margin: 15px 60px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 300px;
+}
+
+table,
+td {
+    border: 2px solid black;
+    text-align: center;
+}
+
+button {
+    font-size: 24px;
+    width: 270px;
+    height: 55px;
+    margin: 10px 75px;
+    background-color: rgb(3, 0, 19);
+    color: white;
+}
