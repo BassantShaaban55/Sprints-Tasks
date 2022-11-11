@@ -4,9 +4,9 @@ body {
 
 img {
     border: 1px solid black;
-    width: 480PX;
-    height: 450px;
-    margin: 30px 400px;
+    width: 440PX;
+    height: 400px;
+    margin: 5px 400px;
 
 
 }
@@ -14,25 +14,25 @@ img {
 
 
 h1 {
-    padding-left: 45px;
-    font-size: 38px;
+    padding-left: 40px;
+    font-size: 32px;
     color: rgb(7, 1, 80);
 }
 
 h2 {
 
     padding: 0 30px;
-    font-size: 30px;
+    font-size: 26px;
 }
 
 .details {
     padding: 0 95px;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .MC {
     padding: 0 95px;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 table {
