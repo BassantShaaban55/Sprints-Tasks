@@ -1,6 +1,6 @@
 class Cart{
     
-    cartLines=[];
+    cartLines;
     total;
     subTotal;
 
